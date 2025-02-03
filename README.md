@@ -1,38 +1,40 @@
-<h1 align="center">👋 Hi, I'm Bryan Lim</h1>
+# Hi there 👋 I'm Bryan Lim  
 
-```js
-const aboutMe = {
-  name: "Bryan Lim",
-  role: "Head of I.T and Software Engineering at Hiraya Tech",
-  hobbies: ["Coding", "Building Scalable Apps", "Exploring New Tech"],
-};
+🚀 **Head of I.T and Software Engineering at Hiraya Tech**  
+💻 **Senior Software Engineer | Full-Stack Developer | DevOps Enthusiast**  
+🔥 Passionate about building high-performance applications and cloud-based solutions  
 
-const skills = {
-  languages: ["JavaScript", "Python", "C#", "SQL"],
-  frameworks: {
-    frontEnd: ["React (Vite)", "TanStack", "ShadCN-UI", "TailwindCSS"],
-    backEnd: ["Django", "Flask", "FastAPI", "Express"],
-    runtime: ["Node.js"]
-  },
-  tools: ["Git", "Docker", "AWS", "Google Cloud", "CI/CD"],
-};
-🚀 Languages and Tools
-Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,python,cs,sql" alt="Languages" /> </p>
-Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind" alt="Frontend Tech" /> </p>
-Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express" alt="Backend Tech" /> </p>
-Tools & Cloud
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp" alt="DevOps & Cloud" /> </p>
+[![Linkedin: Bryan Lim](https://img.shields.io/badge/-BryanLim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-lim-3749b714a/)](https://www.linkedin.com/in/bryan-lim-3749b714a/)  
+![GitHub followers](https://img.shields.io/github/followers/BrylleTyroneLim14?label=Follow&style=social)  
+[![GitHub](https://img.shields.io/badge/GitHub-BrylleTyroneLim14-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/BrylleTyroneLim14)](https://github.com/BrylleTyroneLim14)  
 
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrylleTyroneLim14&show_icons=true&theme=radical" alt="Bryan's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrylleTyroneLim14&theme=radical" alt="GitHub Streak Stats" /> </p>
-📫 Connect with Me
-📌 LinkedIn
-📌 GitHub
-📧 Email: Bryanlim121416@gmail.com
+## 🌎 Socials  
+<p align="left">
+<a href="https://linkedin.com/in/bryan-lim-3749b714a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lim-3749b714a" height="30" width="40" /></a>
+</p>
 
-💻 Let’s build something awesome together! 🚀
+---
 
+## 🛠 Languages and Tools  
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,python,django,flask,aws,gcp,postgresql,mysql,git,github,docker,vercel,html,css,nodejs,express&perline=8)](https://skillicons.dev)  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://komarev.com/ghpvc/?username=BrylleTyroneLim14&style=flat)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrylleTyroneLim14&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrylleTyroneLim14&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrylleTyroneLim14&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BrylleTyroneLim14&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+## 📩 Contact Me  
+📌 [LinkedIn](https://www.linkedin.com/in/bryan-lim-3749b714a/)  
+📌 [GitHub](https://github.com/BrylleTyroneLim14)  
+📧 Email: Bryanlim121416@gmail.com  
+
+💻 **Let’s build something awesome together! 🚀**
