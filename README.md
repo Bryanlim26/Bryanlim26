@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Bryan Lim  
 
 🚀 **Head of I.T and Software Engineering at Hiraya Tech**  
-💻 **Senior Software Engineer | Full-Stack Developer | DevOps Enthusiast**  
+💻 **Senior Software Engineer | Full-Stack Developer | Senior Python Developer | DevOps Enthusiast**  
 🔥 Passionate about building high-performance applications and cloud-based solutions  
 
 [![Linkedin: Bryan Lim](https://img.shields.io/badge/-BryanLim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-lim-3749b714a/)](https://www.linkedin.com/in/bryan-lim-3749b714a/)  
@@ -30,6 +30,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bryanlim26&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
 [![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrylleTyroneLim14&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrylleTyroneLim14&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## ⏳ WakaTime Stats  
+
+[![Bryan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)  
 
 ---
 
