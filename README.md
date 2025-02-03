@@ -35,7 +35,7 @@
 
 ## ⏳ WakaTime Stats  
 
-[![Bryan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrylleTyroneLim14&layout=compact&theme=radical)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)  
+[![Bryan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bryanlim22&layout=compact&theme=radical)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)  
 
 ---
 
