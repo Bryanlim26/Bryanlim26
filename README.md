@@ -5,8 +5,10 @@
 🔥 Passionate about building high-performance applications and cloud-based solutions  
 
 [![Linkedin: Bryan Lim](https://img.shields.io/badge/-BryanLim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-lim-3749b714a/)](https://www.linkedin.com/in/bryan-lim-3749b714a/)  
-![GitHub followers](https://img.shields.io/github/followers/Bryanlim26?label=Follow&style=social)  
-[![GitHub](https://img.shields.io/badge/GitHub-Bryanlim26-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Bryanlim26)](https://github.com/Bryanlim26)  
+![GitHub followers](https://img.shields.io/github/followers/BrylleTyroneLim14?label=Follow&style=social)  
+[![GitHub](https://img.shields.io/badge/GitHub-BrylleTyroneLim14-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/BrylleTyroneLim14)](https://github.com/BrylleTyroneLim14)  
+
+💼 **Work GitHub:** [Bryanlim26](https://github.com/Bryanlim26)  
 
 ---
 
@@ -24,17 +26,18 @@
 
 ## 📊 GitHub Stats  
 
-![](https://komarev.com/ghpvc/?username=Bryanlim26&style=flat)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bryanlim26&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanlim26&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanlim26&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bryanlim26&theme=radical)](https://git.io/streak-stats)  
+![](https://komarev.com/ghpvc/?username=BrylleTyroneLim14&style=flat)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrylleTyroneLim14&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrylleTyroneLim14&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrylleTyroneLim14&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BrylleTyroneLim14&theme=radical)](https://git.io/streak-stats)  
 
 ---
 
 ## 📩 Contact Me  
 📌 [LinkedIn](https://www.linkedin.com/in/bryan-lim-3749b714a/)  
-📌 [GitHub](https://github.com/Bryanlim26)  
+📌 [GitHub (Public)](https://github.com/BrylleTyroneLim14)  
+📌 [GitHub (Work)](https://github.com/Bryanlim26)  
 📧 Email: Bryanlim121416@gmail.com  
 
 💻 **Let’s build something awesome together! 🚀**
