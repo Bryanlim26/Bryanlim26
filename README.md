@@ -28,8 +28,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Bryanlim26&style=flat)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bryanlim26&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanlim26&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanlim26&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Bryan Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrylleTyroneLim14&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrylleTyroneLim14&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
